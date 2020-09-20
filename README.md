@@ -1,6 +1,6 @@
 ### Hi there, I'm Francisco Polaco Santos 👋
 
-## I'm a Engineer, 90's Kid and Travel Lover!
+I'm a Engineer, 90's Kid and Travel Lover!
 
 - 👨‍💻 I’m currently solving challanges at [Feedzai][feedzai]!
 - 🌱 I’m currently learning more about concurrency and performance 🏃💨
