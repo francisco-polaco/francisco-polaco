@@ -9,7 +9,6 @@ I'm an Engineer, 90's Kid and Travel Lover!
     - 🛫  Traveling
     - 🎸  Rock and 80's music
     - 💲  The world of personal finance
-    - 🥘  Being a foodie
     - 🎮  Playing video games
 
 ### Connect with me:
