@@ -3,13 +3,13 @@
 I'm a Engineer, 90's Kid and Travel Lover!
 
 - 👨‍💻 I’m currently solving challanges at [Feedzai][feedzai]!
-- 🌱 I’m currently learning more about concurrency and performance 🏃💨
+- 🌱 I’m learning more about concurrency and performance 🏃💨
 - ⚡ Fun fact: While my surname stands for Polish in Portuguese, I'm not actually Polish.
 - 😃 I love:
     - 🛫 Traveling
-    - 🎸 80's and Rock music
-    - 💲  The world of personal finance
-    - 🎮 Play videogames
+    - 🎸 Rock and 80's music
+    - 💲 The world of personal finance
+    - 🎮 Playing videogames
 
 ### Connect with me:
 
