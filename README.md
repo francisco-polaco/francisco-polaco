@@ -6,10 +6,11 @@ I'm a Engineer, 90's Kid and Travel Lover!
 - 🌱 I’m learning more about concurrency and performance 🏃💨
 - ⚡ Fun fact: While my surname stands for Polish in Portuguese, I'm not actually Polish.
 - 😃 I love:
-    - 🛫 Traveling
-    - 🎸 Rock and 80's music
-    - 💲 The world of personal finance
-    - 🎮 Playing videogames
+    - 🛫  Traveling
+    - 🎸  Rock and 80's music
+    - 💲  The world of personal finance
+    - 🥘  Being a foodie
+    - 🎮  Playing videogames
 
 ### Connect with me:
 
