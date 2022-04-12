@@ -1,9 +1,8 @@
 ### Hi there, I'm Francisco Polaco Santos 👋
 
-I'm an Engineer, 26 yo and Travel Lover!
+I'm a 👨‍💻 Software Engineer, 26 yo and Travel Lover!
 
-- 👨‍💻 I’m currently solving challenges at [HUMAN READY][human]!
-- 🌱 I’m learning more about concurrency and performance 🏃💨
+- 🚀 I’m helping launch at [HUMAN READY][human]!
 - ⚡ Fun fact: While my surname stands for Polish in Portuguese, I'm not actually Polish.
 - 😃 I love:
     - 🛫  Traveling
@@ -14,9 +13,9 @@ I'm an Engineer, 26 yo and Travel Lover!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
@@ -26,7 +25,7 @@ I'm an Engineer, 26 yo and Travel Lover!
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][devplaylist]
 [<img align="left" alt="Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />][devplaylist]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][devplaylist]
-[<img align="left" alt="Jupyter" width="26px" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" />][devplaylist]
+[<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" />][devplaylist]
 [<img align="left" alt="SQL" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][devplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][devplaylist]
