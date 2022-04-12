@@ -29,7 +29,7 @@ I'm a 👨‍💻 Software Engineer, 26 yo and Travel Lover!
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][devplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][devplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][devplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://www.pngfind.com/pngs/m/40-405156_github-octocat-logo-black-and-white-transparent-github.png" />][devplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png" />][devplaylist]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][devplaylist]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][devplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][devplaylist]
