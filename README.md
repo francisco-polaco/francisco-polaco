@@ -25,13 +25,13 @@ I'm a 👨‍💻 Software Engineer, 26 yo and Travel Lover!
 [<img align="left" alt="Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />][devplaylist]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][devplaylist]
 [<img align="left" alt="Jupyter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" />][devplaylist]
-[<img align="left" alt="SQL" width="26px" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][devplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][devplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][devplaylist]
+[<img align="left" alt="AWS" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" />][devplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/github-octocat-logo-png-transparent.png" />][devplaylist]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][devplaylist]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][devplaylist]
+[<img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />][devplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][devplaylist]
 
 <br />
