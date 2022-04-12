@@ -26,7 +26,9 @@ I'm an Engineer, 26 yo and Travel Lover!
 [<img align="left" alt="Intellij IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][devplaylist]
 [<img align="left" alt="Java" width="26px" src="https://classes.engineering.wustl.edu/cse231/core/images/2/26/Java.png" />][devplaylist]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][devplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][devplaylist]
+[<img align="left" alt="Jupyter" width="26px" src="https://github.com/jupyter/jupyter.github.io/blob/master/assets/main-logo.svg" />][devplaylist]
+[<img align="left" alt="SQL" width="26px" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][devplaylist]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][devplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][devplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][devplaylist]
@@ -39,7 +41,6 @@ I'm an Engineer, 26 yo and Travel Lover!
 
 [website]: https://francisco-polaco.github.io/
 [human]: https://humanready.io/
-[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/francisco-santos-bb6054115/
 [email]: mailto:f.polaco.santos@gmail.com
-[devplaylist]: https://open.spotify.com/playlist/2rN3mSrzUcgjlj1TcEDTX7?si=P-Kk_gV0Qgimw89Kjs70MQ
+[devplaylist]: https://open.spotify.com/playlist/37i9dQZF1EQpj7X7UK8OOF?si=68ba103c55c04cdb
