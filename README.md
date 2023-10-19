@@ -14,7 +14,6 @@ I'm a 👨‍💻 Software Engineer, 28 yo and Travel Lover!
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 
 <br />
 
