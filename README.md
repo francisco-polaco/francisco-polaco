@@ -2,7 +2,7 @@
 
 I'm a 👨‍💻 Software Engineer, 28 yo and Travel Lover!
 
-- 🚀 I’m helping launch [HUMAN READY][human]!
+- 🚀 Leading the product engineering team @ [HUMAN READY][human]!
 - ⚡ Fun fact: While my surname stands for Polish in Portuguese, I'm not actually Polish.
 - 😃 I love:
     - 🛫  Traveling
@@ -37,5 +37,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Servic
 
 [human]: https://humanready.io/
 [linkedin]: https://www.linkedin.com/in/francisco-polaco-santos/
-[email]: mailto:f.polaco.santos@gmail.com
-[devplaylist]: https://open.spotify.com/playlist/37i9dQZF1EQpj7X7UK8OOF?si=68ba103c55c04cdb
