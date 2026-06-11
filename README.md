@@ -1,6 +1,6 @@
 ### Hi there, I'm Francisco Polaco Santos 👋
 
-I'm a 👨‍💻 Software Engineer, 29 yo and Travel Lover!
+I'm a 👨‍💻 Software Engineer, 31 yo and Travel Lover!
 
 - 🚀 Leading the product engineering team @ [HUMAN READY][human]!
 - ⚡ Fun fact: While my surname stands for Polish in Portuguese, I'm not actually Polish.
